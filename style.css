@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html,body{
+    background-color: #ddd;
+}
+#navbarNav{
+    justify-content: end;
+    padding: 0 20px;
+    color: white;
+}
+.nav-item {
+    padding: 0 30px;
+}
+.navbar{
+    box-shadow: 0 2px 2px 2px gray;
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 25px;
+}
+.nav-link{
+    color: black;
+}
+.fa-solid {
+    margin-left: 23px;
+    position: absolute;
+    font-size: 25px;
+}
+.image img{
+    height: 430px;
+    width: 700px;
+}
+.blue{
+   color: blue;
+}
+.mt{
+    margin-top: 90px;
+}
